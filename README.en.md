@@ -124,7 +124,7 @@ The key is one uniform pixel grid with stepped contours, high-key pastels drawn 
 Install from GitHub:
 
 ```bash
-npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-343 --skill xxd-panel-343
+npx skills add https://github.com/nevertoday/xxd-panel-343 --skill xxd-panel-343
 ```
 
 Restart the agent session after installation, then invoke `$xxd-panel-343`. Add `--global --agent codex --yes` when a user-level Codex installation is wanted.

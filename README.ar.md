@@ -124,7 +124,7 @@
 التثبيت من GitHub:
 
 ```bash
-npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-343 --skill xxd-panel-343
+npx skills add https://github.com/nevertoday/xxd-panel-343 --skill xxd-panel-343
 ```
 
 بعد التثبيت أعد تشغيل جلسة Agent ثم استدعِ `$xxd-panel-343`. ويمكن إضافة `--global --agent codex --yes` للتثبيت على مستوى المستخدم.

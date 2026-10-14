@@ -124,7 +124,7 @@
 从 GitHub 安装：
 
 ```bash
-npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-343 --skill xxd-panel-343
+npx skills add https://github.com/nevertoday/xxd-panel-343 --skill xxd-panel-343
 ```
 
 安装后重新启动 Agent 会话，然后调用 `$xxd-panel-343`。也可以按需追加 `--global --agent codex --yes` 做用户级安装。

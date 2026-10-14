@@ -124,7 +124,7 @@
 GitHub에서 설치:
 
 ```bash
-npx skills add https://github.com/xiaoxiaodong-ai/xxd-panel-343 --skill xxd-panel-343
+npx skills add https://github.com/nevertoday/xxd-panel-343 --skill xxd-panel-343
 ```
 
 설치 후 Agent 세션을 다시 시작하고 `$xxd-panel-343`을 호출하세요. 사용자 단위 Codex 설치에는 `--global --agent codex --yes`를 추가할 수 있습니다.
