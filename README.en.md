@@ -10,6 +10,53 @@ Keep the photograph above. Below, the subject becomes one small, complete pastel
 
 > Original prompt (five-language entry): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## 16:9 Left–Right Samples
+
+Twenty Unsplash portrait photographs on twenty themes different from the top–bottom set, each rebuilt as one complete 16:9 left–right canvas. The photograph stays on the left; on the right, one pixel picture-card floats in wide pale space, exact 50:50. The caption comes from the photograph and rotates across Chinese, English, Japanese, Korean and Arabic. The portrait themes are single, clearly outlined landmarks, animals and everyday objects, to show how the card stays complete and quiet in a narrower half.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 343 sample 21 · Eiffel Tower"><br><sub>21 · Eiffel Tower</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 343 sample 22 · Cactus"><br><sub>22 · Cactus</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 343 sample 23 · Goldfish"><br><sub>23 · Goldfish</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 343 sample 24 · Penguin"><br><sub>24 · Penguin</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 343 sample 25 · Watermelon"><br><sub>25 · Watermelon</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 343 sample 26 · Potted plant"><br><sub>26 · Potted plant</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 343 sample 27 · Owl"><br><sub>27 · Owl</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 343 sample 28 · Burger"><br><sub>28 · Burger</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 343 sample 29 · Red pillar box"><br><sub>29 · Red pillar box</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 343 sample 30 · Shiba Inu"><br><sub>30 · Shiba Inu</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 343 sample 31 · Palm tree"><br><sub>31 · Palm tree</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 343 sample 32 · Torii gate"><br><sub>32 · Torii gate</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 343 sample 33 · Snail"><br><sub>33 · Snail</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 343 sample 34 · Surfboard"><br><sub>34 · Surfboard</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 343 sample 35 · Canvas sneaker"><br><sub>35 · Canvas sneaker</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 343 sample 36 · Vintage camera"><br><sub>36 · Vintage camera</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 343 sample 37 · Christmas tree"><br><sub>37 · Christmas tree</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 343 sample 38 · Rabbit"><br><sub>38 · Rabbit</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 343 sample 39 · Teapot"><br><sub>39 · Teapot</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 343 sample 40 · Rubber duck"><br><sub>40 · Rubber duck</sub></td>
+  </tr>
+</table>
+
 ## 3:4 Top–Bottom Samples
 
 Twenty Unsplash landscape photographs with clear silhouettes, each rebuilt as one complete 3:4 top–bottom canvas. The photograph stays above; below is one centred, floating pastel pixel picture-card, exact 50:50. The source brief sets no language, so the caption comes from the photograph and rotates across Chinese, English, Japanese, Korean and Arabic. Themes span architecture, vehicles, animals, natural landmarks and street scenes, to show how very different subjects are pared down into one quiet display.

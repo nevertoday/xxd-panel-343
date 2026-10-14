@@ -10,6 +10,53 @@
 
 > 原始プロンプト（5言語の入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
+## 16:9 左右の作例
+
+上下の組とは別の20テーマの Unsplash 縦写真。それぞれ 16:9 の左右完成キャンバス。左は現実写真、右は広い淡色の余白に浮かぶ一枚のピクセル画片。厳密に 50:50。キャプションは写真の内容から生成し、中国語・英語・日本語・韓国語・アラビア語を順に回す。縦写真のテーマは輪郭のはっきりした単一のランドマーク、動物、日用品を選び、より細い半面でも画片が完結した静けさを保つ様子を見せる。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 343 sample 21 · エッフェル塔"><br><sub>21 · エッフェル塔</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 343 sample 22 · サボテン"><br><sub>22 · サボテン</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 343 sample 23 · 金魚"><br><sub>23 · 金魚</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 343 sample 24 · ペンギン"><br><sub>24 · ペンギン</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 343 sample 25 · スイカ"><br><sub>25 · スイカ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 343 sample 26 · 観葉植物"><br><sub>26 · 観葉植物</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 343 sample 27 · フクロウ"><br><sub>27 · フクロウ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 343 sample 28 · ハンバーガー"><br><sub>28 · ハンバーガー</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 343 sample 29 · 赤いポスト"><br><sub>29 · 赤いポスト</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 343 sample 30 · 柴犬"><br><sub>30 · 柴犬</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 343 sample 31 · ヤシの木"><br><sub>31 · ヤシの木</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 343 sample 32 · 鳥居"><br><sub>32 · 鳥居</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 343 sample 33 · カタツムリ"><br><sub>33 · カタツムリ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 343 sample 34 · サーフボード"><br><sub>34 · サーフボード</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 343 sample 35 · スニーカー"><br><sub>35 · スニーカー</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 343 sample 36 · クラシックカメラ"><br><sub>36 · クラシックカメラ</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 343 sample 37 · クリスマスツリー"><br><sub>37 · クリスマスツリー</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 343 sample 38 · ウサギ"><br><sub>38 · ウサギ</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 343 sample 39 · ティーポット"><br><sub>39 · ティーポット</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 343 sample 40 · アヒルのおもちゃ"><br><sub>40 · アヒルのおもちゃ</sub></td>
+  </tr>
+</table>
+
 ## 3:4 上下の作例
 
 輪郭の明快な Unsplash の横長写真20点を、それぞれ 3:4 上下の完成キャンバスにした。上は現実写真、下は中央に浮かぶ淡彩のピクセル画片一枚。厳密に 50:50。原文は言語を限定しないため、説明文は写真から生成し、中国語・英語・日本語・韓国語・アラビア語を順に回す。建築、乗り物、動物、自然の名所、街角まで、異なる主体が削ぎ落とされ同じ陳列の気配にまとまる様子を示す。

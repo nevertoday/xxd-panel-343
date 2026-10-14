@@ -10,6 +10,53 @@
 
 > مدخل النص الأصلي (باللغات الخمس): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## نماذج 16:9 يسار–يمين
+
+عشرون صورة عمودية من Unsplash بعشرين موضوعًا مختلفًا عن مجموعة الأعلى–الأسفل، وكل منها لوحة 16:9 يسار–يمين مكتملة. تبقى الصورة في اليسار، وفي اليمين بطاقة بكسلية واحدة تطفو في فراغ واسع شاحب، مناصفة دقيقة 50:50. يُولَّد التعليق من الصورة وتدور لغته بين الصينية والإنجليزية واليابانية والكورية والعربية. اخترنا مواضيع عمودية مفردة واضحة الحدود من معالم وحيوانات وأشياء يومية، لنُظهر كيف تبقى البطاقة مكتملة وهادئة في نصف أضيق.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 343 sample 21 · برج إيفل"><br><sub>21 · برج إيفل</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 343 sample 22 · صبار"><br><sub>22 · صبار</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 343 sample 23 · سمكة ذهبية"><br><sub>23 · سمكة ذهبية</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 343 sample 24 · بطريق"><br><sub>24 · بطريق</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 343 sample 25 · بطيخ"><br><sub>25 · بطيخ</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 343 sample 26 · نبتة في أصيص"><br><sub>26 · نبتة في أصيص</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 343 sample 27 · بومة"><br><sub>27 · بومة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 343 sample 28 · برغر"><br><sub>28 · برغر</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 343 sample 29 · صندوق بريد أحمر"><br><sub>29 · صندوق بريد أحمر</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 343 sample 30 · كلب شيبا"><br><sub>30 · كلب شيبا</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 343 sample 31 · نخلة"><br><sub>31 · نخلة</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 343 sample 32 · بوابة توري"><br><sub>32 · بوابة توري</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 343 sample 33 · حلزون"><br><sub>33 · حلزون</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 343 sample 34 · لوح ركوب الأمواج"><br><sub>34 · لوح ركوب الأمواج</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 343 sample 35 · حذاء قماشي"><br><sub>35 · حذاء قماشي</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 343 sample 36 · كاميرا قديمة"><br><sub>36 · كاميرا قديمة</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 343 sample 37 · شجرة الميلاد"><br><sub>37 · شجرة الميلاد</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 343 sample 38 · أرنب"><br><sub>38 · أرنب</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 343 sample 39 · إبريق شاي"><br><sub>39 · إبريق شاي</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 343 sample 40 · بطة مطاطية"><br><sub>40 · بطة مطاطية</sub></td>
+  </tr>
+</table>
+
 ## نماذج 3:4 أعلى–أسفل
 
 عشرون صورة أفقية من Unsplash بخطوط خارجية واضحة، كل منها لوحة 3:4 أعلى–أسفل مكتملة. تبقى الصورة في الأعلى، وفي الأسفل بطاقة بكسل باستيل واحدة معلّقة في المنتصف، مناصفة دقيقة 50:50. لا يحدد الموجّه الأصلي لغة، لذا يُولَّد التعليق من الصورة وتدور اللغة بين الصينية والإنجليزية واليابانية والكورية والعربية. تمتد الموضوعات من العمارة ووسائل النقل والحيوانات إلى المعالم الطبيعية ومشاهد الشارع، لتُظهر كيف تُختزل موضوعات مختلفة جدًا في حالة عرض هادئة واحدة.

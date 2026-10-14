@@ -10,6 +10,53 @@
 
 > 원본 프롬프트(5개 언어 입구): [简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md).
 
+## 16:9 좌우 구성 예시
+
+상하 세트와 다른 스무 가지 주제의 Unsplash 세로 사진 스무 장. 각각 16:9 좌우 완성 캔버스. 왼쪽은 실사, 오른쪽은 넓은 옅은 여백 속에 떠 있는 한 장의 픽셀 그림 카드, 정확히 50:50. 캡션은 사진 내용에서 생성하며 중국어·영어·일본어·한국어·아랍어를 순환한다. 세로 주제는 윤곽이 뚜렷한 단일 랜드마크, 동물, 일상 사물로 골라 더 좁은 반쪽에서도 카드가 완결되고 고요하게 남는 모습을 보여 준다.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 343 sample 21 · 에펠탑"><br><sub>21 · 에펠탑</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 343 sample 22 · 선인장"><br><sub>22 · 선인장</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 343 sample 23 · 금붕어"><br><sub>23 · 금붕어</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 343 sample 24 · 펭귄"><br><sub>24 · 펭귄</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 343 sample 25 · 수박"><br><sub>25 · 수박</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 343 sample 26 · 화분 식물"><br><sub>26 · 화분 식물</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 343 sample 27 · 부엉이"><br><sub>27 · 부엉이</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 343 sample 28 · 햄버거"><br><sub>28 · 햄버거</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 343 sample 29 · 빨간 우체통"><br><sub>29 · 빨간 우체통</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 343 sample 30 · 시바견"><br><sub>30 · 시바견</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 343 sample 31 · 야자수"><br><sub>31 · 야자수</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 343 sample 32 · 도리이"><br><sub>32 · 도리이</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 343 sample 33 · 달팽이"><br><sub>33 · 달팽이</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 343 sample 34 · 서핑보드"><br><sub>34 · 서핑보드</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 343 sample 35 · 캔버스 운동화"><br><sub>35 · 캔버스 운동화</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 343 sample 36 · 빈티지 카메라"><br><sub>36 · 빈티지 카메라</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 343 sample 37 · 크리스마스트리"><br><sub>37 · 크리스마스트리</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 343 sample 38 · 토끼"><br><sub>38 · 토끼</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 343 sample 39 · 찻주전자"><br><sub>39 · 찻주전자</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 343 sample 40 · 고무 오리"><br><sub>40 · 고무 오리</sub></td>
+  </tr>
+</table>
+
 ## 3:4 상하 구성 예시
 
 윤곽이 뚜렷한 Unsplash 가로 사진 스무 장을 각각 완성된 3:4 상하 캔버스로 만들었다. 위는 실사, 아래는 가운데 떠 있는 파스텔 픽셀 화편 한 장. 정확히 50:50. 원문이 언어를 정하지 않으므로 설명 문구는 사진에서 생성하며 중국어·영어·일본어·한국어·아랍어를 순환한다. 건축, 탈것, 동물, 자연 명소, 거리 풍경까지, 서로 다른 피사체가 덜어 내어져 같은 진열의 분위기로 모이는 과정을 보여 준다.

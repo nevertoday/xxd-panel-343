@@ -10,6 +10,53 @@
 
 > 原始提示词（五语入口）：[简中](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)。
 
+## 16:9 左右双联样张
+
+以下二十张使用与上下组完全不同的二十个主题的 Unsplash 竖幅照片，各自生成一张完整的 16:9 左右双联画布：左侧保留现实摄影，右侧是一块悬置在大片淡色留白中的像素画片，严格 50:50。说明文字按照片内容生成，语种在简体中文、英语、日语、韩语和阿拉伯语之间轮换。竖幅主题挑选单一、轮廓鲜明的地标、动物与日常物件，用来展示小画片在更窄的半幅里如何保持完整与安静。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 343 sample 21 · 埃菲尔铁塔"><br><sub>21 · 埃菲尔铁塔</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 343 sample 22 · 仙人掌"><br><sub>22 · 仙人掌</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 343 sample 23 · 金鱼"><br><sub>23 · 金鱼</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 343 sample 24 · 企鹅"><br><sub>24 · 企鹅</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 343 sample 25 · 西瓜"><br><sub>25 · 西瓜</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 343 sample 26 · 盆栽绿植"><br><sub>26 · 盆栽绿植</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 343 sample 27 · 猫头鹰"><br><sub>27 · 猫头鹰</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 343 sample 28 · 汉堡"><br><sub>28 · 汉堡</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 343 sample 29 · 红色邮筒"><br><sub>29 · 红色邮筒</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 343 sample 30 · 柴犬"><br><sub>30 · 柴犬</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 343 sample 31 · 棕榈树"><br><sub>31 · 棕榈树</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 343 sample 32 · 鸟居"><br><sub>32 · 鸟居</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 343 sample 33 · 蜗牛"><br><sub>33 · 蜗牛</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 343 sample 34 · 冲浪板"><br><sub>34 · 冲浪板</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 343 sample 35 · 帆布鞋"><br><sub>35 · 帆布鞋</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 343 sample 36 · 老式相机"><br><sub>36 · 老式相机</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 343 sample 37 · 圣诞树"><br><sub>37 · 圣诞树</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 343 sample 38 · 兔子"><br><sub>38 · 兔子</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 343 sample 39 · 茶壶"><br><sub>39 · 茶壶</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 343 sample 40 · 小黄鸭"><br><sub>40 · 小黄鸭</sub></td>
+  </tr>
+</table>
+
 ## 3:4 上下双联样张
 
 以下二十张来自二十个轮廓清晰的 Unsplash 横幅照片，各自生成一张完整的 3:4 上下双联画布：上部保留现实摄影，下部是一块居中悬置的淡彩像素画片，严格 50:50。原始提示词不限制语种，因此说明文字按照片内容生成，语种在简体中文、英语、日语、韩语和阿拉伯语之间轮换。主题覆盖建筑、交通工具、动物、自然地标与街景，用来展示不同主体如何被删繁就简、收成同一种陈列气质。
