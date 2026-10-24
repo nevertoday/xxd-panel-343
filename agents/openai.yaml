@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 343"
-  short_description: "悬浮像素画片：上半保留原照，下半把主体收成一块居中悬置的淡彩像素小画与右下柔影"
-  default_prompt: "Use $xxd-panel-343 to transform my photograph following the complete canonical source brief."
+  short_description: "悬浮像素画片：把照片主体收成一块居中悬浮、右下带柔影的淡彩像素小画"
+  default_prompt: "Use $xxd-panel-343 to turn my photo into Floating Pixel Card artwork."

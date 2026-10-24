@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 343｜Floating Pixel Card: keeps the photo and rebuilds its subject as one small, complete pastel pixel picture-card floating at the centre of wide pale whitespace with a soft shadow offset to the lower right — curves broken into short horizontal and vertical steps on one even pixel grid, no black outlines, depth from colour bands and overlap, four to six photo colours lifted into light pastels with a few steadier darks and one brighter accent, clean flat colour without grain, and an optional short caption in a thin sans-serif beside the card naming something specific in the photo. Messy or small-subject photos are rescued by cropping the setting away. The photo half carries no text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-343 or asks for a pastel pixel miniature, floating pixel card or stepped pixel art from a photo.",
+  "short_description": "悬浮像素画片：把照片主体收成一块居中悬浮、右下带柔影的淡彩像素小画",
+  "zh-CN": {
+    "name": "悬浮像素画片",
+    "tagline": "把照片主体收成一块居中悬浮、右下带柔影的淡彩像素小画。",
+    "look": "主体被重画成一块边界完整的小画片，悬在大片浅色留白正中，右下方有一道与画片错开、由近及远淡出的柔影。画里用统一大小的像素格，曲线拆成横竖台阶，细节合并成成组的矩形，不描黑边，远近靠色带宽窄和遮挡来分。颜色从照片取四到六种，调成高明度淡彩，加少量沉稳的深色和一处略鲜明的亮点，色块干净平整，没有颗粒和做旧。画片外侧可以有一行轻细的无衬线小字，写照片里具体的东西或地点，也可以不写；照片那一半不放字。",
+    "traits": [
+      "淡彩像素小画",
+      "阶梯轮廓",
+      "居中悬置",
+      "右下柔影",
+      "宽阔留白",
+      "轻细无衬线"
+    ],
+    "good": [
+      "主体轮廓清楚、一眼能认的照片：一栋房子、一艘小船、一辆车、一只猫",
+      "地标和街角小景：灯塔、电话亭、一家小店门面、桥",
+      "构图一般、背景杂乱或主体很小的照片，画片会删掉环境、只留主体"
+    ],
+    "poor": [
+      "需要看清人脸表情或精细纹理的照片，像素台阶会把它们归并掉",
+      "想保留整个场景、让画面铺满的需求，这种画法必须是小画片加大留白",
+      "想要卡通风、光滑曲线、塑料质感或旧纸纹理的需求"
+    ]
+  },
+  "en": {
+    "name": "Floating Pixel Card",
+    "tagline": "Turns the subject of your photo into a small pastel pixel picture floating at the centre, with a soft shadow at the lower right.",
+    "look": "The subject is redrawn as one small picture-card with a complete edge, hung in the middle of a wide pale field, with a soft shadow offset to the lower right that fades with distance. Inside, one even pixel grid turns curves into short horizontal and vertical steps and merges detail into groups of rectangles, with no black outlines; depth comes from the width of colour bands and overlap. Four to six colours from the photo are lifted into light pastels, with a few steadier darks and one slightly brighter accent, in clean flat blocks without grain or ageing. A thin sans-serif line beside the card may name something specific in the photo, or there may be no text; the photo half carries none.",
+    "traits": [
+      "Pastel pixel miniature",
+      "Stepped outline",
+      "Centred float",
+      "Lower-right soft shadow",
+      "Wide whitespace",
+      "Thin sans-serif"
+    ],
+    "good": [
+      "Photos with a clear, instantly recognisable subject: a house, a small boat, a car, a cat",
+      "Landmarks and small street corners: a lighthouse, a phone box, a little shopfront, a bridge",
+      "Photos with weak composition, messy backgrounds or a small subject, since the card drops the setting and keeps the subject"
+    ],
+    "poor": [
+      "Photos where facial expressions or fine texture must show, since the pixel steps merge them away",
+      "Requests to keep the whole scene or fill the frame, because this look needs a small card in wide space",
+      "Requests for a cartoon look, smooth curves, a plastic finish or old-paper texture"
+    ]
+  },
+  "ja": {
+    "name": "浮かぶピクセル画片",
+    "tagline": "写真の主役を、中央に浮かび右下に柔らかな影を落とす淡いピクセルの小さな絵にします。",
+    "look": "主役は縁の整った一枚の小さな画片として描き直され、広い淡色の余白の真ん中に浮かび、右下には画片からずれて遠くへ薄れていく柔らかな影が落ちます。画の中は同じ大きさのピクセルで、曲線は短い縦横の階段になり、細部は矩形のまとまりにまとめられ、黒い輪郭線は引きません。奥行きは色帯の幅と重なりで表します。色は写真から四〜六色を取り、明るい淡彩に整えて、落ち着いた濃い色を少しとやや鮮やかなアクセントを一つ加えます。色面は清潔で平らで、粒子や古び加工はありません。画片の外側に、写真の具体的な物や場所を書いた細いサンセリフの一行が添えられることもあり、なくても構いません。写真側には文字を入れません。",
+    "traits": [
+      "淡彩ピクセルの小品",
+      "階段状の輪郭",
+      "中央に浮かぶ",
+      "右下の柔らかな影",
+      "広い余白",
+      "細いサンセリフ"
+    ],
+    "good": [
+      "主役の輪郭がはっきりして一目でわかる写真：一軒の家、小舟、車、猫",
+      "ランドマークや街角の小さな景色：灯台、電話ボックス、小さな店先、橋",
+      "構図が平凡、背景が散らかっている、主役が小さい写真（背景を省いて主役だけを残します）"
+    ],
+    "poor": [
+      "表情や細かな質感を見せたい写真（ピクセルの段差にまとめられてしまいます）",
+      "場面全体を残したい、画面いっぱいにしたい場合（小さな画片と広い余白が前提です）",
+      "漫画風、なめらかな曲線、プラスチックの質感、古紙の風合いを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "떠 있는 픽셀 그림 조각",
+    "tagline": "사진 속 주인공을 가운데 떠 있고 오른쪽 아래에 부드러운 그림자가 진 파스텔 픽셀 소품으로 만듭니다.",
+    "look": "주인공은 테두리가 온전한 작은 그림 조각 하나로 다시 그려져 넓은 연한 여백 한가운데 떠 있고, 오른쪽 아래에는 조각에서 비켜나 멀어질수록 옅어지는 부드러운 그림자가 집니다. 그림 안은 크기가 같은 픽셀 격자로, 곡선은 짧은 가로세로 계단이 되고 세부는 사각형 묶음으로 합쳐지며 검은 외곽선은 없습니다. 깊이는 색띠의 너비와 겹침으로 나타냅니다. 색은 사진에서 네 가지에서 여섯 가지를 골라 밝은 파스텔로 다듬고, 차분한 짙은 색 약간과 조금 선명한 포인트 하나를 더합니다. 색면은 깨끗하고 평평하며 입자나 낡은 효과는 없습니다. 조각 바깥에 사진 속 구체적인 사물이나 장소를 적은 가는 산세리프 한 줄이 들어갈 수 있고, 없어도 됩니다. 사진 쪽에는 글자를 넣지 않습니다.",
+    "traits": [
+      "파스텔 픽셀 소품",
+      "계단형 윤곽",
+      "가운데 떠 있음",
+      "오른쪽 아래 부드러운 그림자",
+      "넓은 여백",
+      "가는 산세리프"
+    ],
+    "good": [
+      "주인공 윤곽이 분명해 한눈에 알아볼 수 있는 사진: 집 한 채, 작은 배, 자동차, 고양이",
+      "랜드마크와 작은 길모퉁이 풍경: 등대, 공중전화 부스, 작은 가게 앞, 다리",
+      "구도가 평범하거나 배경이 어수선하거나 주인공이 작은 사진(배경을 덜어 내고 주인공만 남깁니다)"
+    ],
+    "poor": [
+      "표정이나 섬세한 질감이 보여야 하는 사진(픽셀 계단에 묻혀 버립니다)",
+      "장면 전체를 남기거나 화면을 가득 채우고 싶은 경우(작은 그림 조각과 넓은 여백이 전제입니다)",
+      "만화풍, 매끈한 곡선, 플라스틱 질감, 낡은 종이 질감을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "بطاقة البكسل العائمة",
+    "tagline": "يحوّل العنصر الرئيسي في صورتك إلى لوحة بكسل صغيرة بألوان باستيل تطفو في الوسط، مع ظلّ ناعم أسفلها إلى اليمين.",
+    "look": "يُعاد رسم العنصر في بطاقة صغيرة واحدة مكتملة الحواف، معلّقة في وسط مساحة فاتحة واسعة، مع ظلّ ناعم منزاح إلى الأسفل يميناً يخفت كلما ابتعد. في داخلها شبكة بكسلات متساوية تحوّل المنحنيات إلى درجات أفقية وعمودية قصيرة وتجمع التفاصيل في مجموعات من المستطيلات، دون خطوط سوداء محيطة، ويأتي العمق من عرض الشرائط اللونية والتداخل. تُؤخذ من الصورة أربعة إلى ستة ألوان وتُرفع إلى باستيل فاتح، مع قليل من الألوان الداكنة الهادئة ولمسة واحدة أكثر إشراقاً، في مساحات نظيفة مسطّحة بلا حبيبات ولا تعتيق. قد يظهر بجانب البطاقة سطر رفيع بخط غير مذيّل يسمّي شيئاً محدداً من الصورة، وقد لا يظهر أي نص؛ أما نصف الصورة فلا نص فيه.",
+    "traits": [
+      "لوحة بكسل باستيل صغيرة",
+      "حدود متدرّجة",
+      "طفو في الوسط",
+      "ظلّ ناعم أسفل اليمين",
+      "فراغ واسع",
+      "خط رفيع غير مذيّل"
+    ],
+    "good": [
+      "صور فيها عنصر واضح يُعرف من النظرة الأولى: بيت، قارب صغير، سيارة، قطة",
+      "معالم وزوايا شوارع صغيرة: منارة، كشك هاتف، واجهة متجر صغير، جسر",
+      "صور ضعيفة التكوين أو بخلفية فوضوية أو بعنصر صغير، إذ تحذف البطاقة المكان وتُبقي العنصر"
+    ],
+    "poor": [
+      "صور يجب أن تظهر فيها تعابير الوجه أو الملامس الدقيقة، لأن درجات البكسل تدمجها",
+      "طلب الإبقاء على المشهد كله أو ملء الإطار، فهذا الأسلوب يحتاج بطاقة صغيرة في فراغ واسع",
+      "طلب مظهر كرتوني أو منحنيات ملساء أو لمسة بلاستيكية أو ملمس ورق قديم"
+    ]
+  }
+}
